@@ -1,0 +1,31 @@
+.bg-light{
+    background: linear-gradient(45deg, #E52a6f 0%, #5f0f4e 100%);
+}
+.navbar-brand{
+    color: #5f0f4e;
+    font-weight: bold;
+    font-size: 170%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.navbar-brand:hover{
+    color: #5f0f4e;
+}
+.nav-item{
+    font-weight: bold;
+    font-size: 110%;       
+    text-transform: uppercase;
+    background: #ffffff;
+    -webkit-background-clip: text;
+        background-clip: text;
+	-webkit-text-fill-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn{
+   color: aqua;
+   border-color: aqua;
+}
+.btn:hover{
+    background-color: aqua;
+    color: #ffffff;
+}
