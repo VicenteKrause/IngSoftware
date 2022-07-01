@@ -1,2 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 @import "../node_modules/bootstrap/dist/css/bootstrap";
+
+body{
+    background: linear-gradient(45deg, #E52a6f 0%, #5f0f4e 100%);
+}
